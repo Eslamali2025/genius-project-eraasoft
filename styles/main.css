@@ -23,9 +23,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    column-gap: 4em;
+    column-gap: 7em;
     padding-top: 2em;
-    margin-right: 4em;
 }
 .navbar-muen {
     
@@ -102,8 +101,9 @@ a {
 }
 .main-box  img {
 
-    width: 480px;
-    height: 323px;
+    width: 400px;
+    height: 300px;
+    margin-left: 4em;
 
 
 }
@@ -119,6 +119,7 @@ a {
 
     display: flex;
     flex-direction: column;
+    margin-left: 11em;
    
     
     p {
@@ -137,7 +138,7 @@ a {
         text-decoration: none;
          position: absolute;
         bottom: -3em;
-         right: 12em;
+         right: 11em;
         color: #fff;
         background: #F04B25;
         width: 174px;
@@ -329,7 +330,7 @@ a {
     }
     .img-box {
 
-        width: 75em;
+        width: 68em;
         height: 606px;
         margin-top: 2em;
 
@@ -346,7 +347,7 @@ a {
     .footer1 {
 
         background: #F04B25;
-        width: 1200px;
+        width: 90%;
         height: 530px;
         border-radius: 10px ;
         margin-right: 5em;

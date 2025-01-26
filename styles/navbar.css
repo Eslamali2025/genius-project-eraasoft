@@ -858,7 +858,7 @@ h2 {
     background: #F5F5F5;
     border-radius: 10px ;
     position: relative;
-    left: 10.5em;
+    left: 18em;
     bottom: 12em;
 
 }
@@ -1036,7 +1036,7 @@ h2 {
 .anonymous-box19 {
   
     margin-top: -9em;
-    margin-left: 10.5em;
+    margin-left: 18em;
 
 }
 .anonymous-box20 {
@@ -1330,7 +1330,7 @@ h2 {
 }
 address {
 
-margin: 2em 0 0 10.5em;
+margin: 2em 0 0 18em;
 }
 .anonymous-box37 {
 
@@ -1540,7 +1540,7 @@ margin: 2em 0 0 10.5em;
 }
 .anonymous-box42 {
 
-    margin-left: 10em;
+    margin-left: 18em;
     display: flex;
     gap: 17em;
 
@@ -1747,7 +1747,7 @@ margin: 2em 0 0 10.5em;
     justify-content: center;
     align-items: center;
     gap: 1.5em;
-    width: 55em;
+    width: 65em;
     height: 500px;
     background: #fff;
     overflow-y: hidden;
@@ -1761,6 +1761,7 @@ margin-top: 4em;
 }
 .sadwo {
     display: flex;
+
    
 
 }
@@ -1906,7 +1907,7 @@ margin-top: 4em;
     width: 218px;
     height: 500px;
     position: relative;
-    right: 56em;
+    right: 66em;
     
 }
 .anonymous-box51 {
